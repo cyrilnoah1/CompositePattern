@@ -1,0 +1,11 @@
+The Composite Pattern allows you to
+compose objects into tree structures to
+represent part-whole hierarchies. Composite
+lets clients treat individual objects and
+compositions of objects uniformly.
+
+In this example, we demonstrate the usage of
+Composite pattern by relating sub-items to a parent
+item using a Composite class. Here, the parent item will
+be Darth Vader (Anakin Skywalker) while the sub items
+will be Luke Skywalker and Leia Skywalker.
